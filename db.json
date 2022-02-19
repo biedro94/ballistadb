@@ -1,5 +1,10 @@
 {
   "auth":{
-    "accessToken":"sfnaosonaisgnioasngiosa6ag4as8g4asg9asg"    
+    "login":{
+      "accessToken":"sfnaosonaisgnioasngiosa6ag4as8g4asg9asg"    
+    },
+    "register":{
+      
+    }    
   }
 }
