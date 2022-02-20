@@ -6,6 +6,7 @@
     "email":"jacksparrow@gmail.com",
     "firstName": "Jack",
     "lastName": "Sparrow",
-    "accountType": "clubMember"
+    "accountType": "clubMember",
+    "shootingClub": "SKS Strzelcy Bytów"
   }
 }
