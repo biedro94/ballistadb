@@ -2,4 +2,11 @@
   "login":{
     "accessToken":"sfnaosonaisgnioasngiosa6ag4as8g4asg9asg"       
   }
+  "userData":{
+    "email":"jacksparrow@gmail.com",
+    "firstName": "Jack",
+    "lastName": "Sparrow",
+    "accountType": "clubMember",
+    "shootingClub": "SKS Strzelcy Bytów"
+  }
 }
