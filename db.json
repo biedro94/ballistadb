@@ -8,5 +8,34 @@
     "lastName": "Sparrow",
     "accountType": "Członek klubu",
     "shootingClub": "SKS Strzelcy Bytów"
-  }
+  },
+  "verifyRequests":[
+    {
+      "id": 2654,
+      "requestDate":"20.12.2021",
+      "userData": {
+        "email":"jacksparrow@gmail.com",
+        "firstName": "Jack",
+        "lastName": "Sparrow",
+        "accountType": "Członek klubu",
+        "shootingClub": "SKS Strzelcy Bytów"
+      },
+      "itemsCount":3,
+      "documents":[
+        {
+          "doc_id":1,
+          "firstName":"Jack",
+          "lastName":"Sparrow",
+          "docTitle":"Patent strzelecki",
+          "address":{
+            "street":"Smetany",
+            "streetNumber":7,
+            "houseNumber":19
+          },
+          "docNumber":"C/NBAD/125487",
+          "authority":"PZSS"
+        }
+      ]
+    }    
+  ]
 }
