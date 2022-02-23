@@ -23,7 +23,7 @@
       "itemsCount":3,
       "documents":[
         {
-          "doc_id":1,
+          "docId":1,
           "firstName":"Jack",
           "lastName":"Sparrow",
           "docTitle":"Patent strzelecki",
