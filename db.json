@@ -21,7 +21,7 @@
         "shootingClub": "SKS Strzelcy Bytów"
       },
       "itemsCount":3,
-      "requestStatus":"w trakcie przetwarzania",
+      "requestStatus":"sent",
       "documents":[
         {
           "docId":1,
